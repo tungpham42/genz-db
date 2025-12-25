@@ -1,0 +1,23 @@
+{
+  "name": "genz-db",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/tungpham42/genz-db#readme",
+  "bugs": {
+    "url": "https://github.com/tungpham42/genz-db/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tungpham42/genz-db.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@netlify/functions": "^5.1.2"
+  }
+}
